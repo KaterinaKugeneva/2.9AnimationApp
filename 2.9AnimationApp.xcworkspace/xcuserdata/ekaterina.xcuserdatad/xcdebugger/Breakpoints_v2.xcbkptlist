@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2FE8A643-AC17-4682-A696-F54147830ECE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C2F5B8B-2C33-4A0C-BC2A-8069A5D673B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2.9AnimationApp/Controllers/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "MainViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5C2F5B8B-2C33-4A0C-BC2A-8069A5D673B0 - 8f018772e142de60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__9AnimationApp.MainViewController.animationButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "2.9AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ekaterina/2.9AnimationApp/2.9AnimationApp/Controllers/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "5C2F5B8B-2C33-4A0C-BC2A-8069A5D673B0 - a5d75331cb348e6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__9AnimationApp.MainViewController.animationButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "2.9AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ekaterina/2.9AnimationApp/2.9AnimationApp/Controllers/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "5C2F5B8B-2C33-4A0C-BC2A-8069A5D673B0 - a549dff9b455bcd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__9AnimationApp.MainViewController.animationButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "2.9AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ekaterina/2.9AnimationApp/2.9AnimationApp/Controllers/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "5C2F5B8B-2C33-4A0C-BC2A-8069A5D673B0 - 2dca9bd10f89f0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__9AnimationApp.MainViewController.animationButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "2.9AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ekaterina/2.9AnimationApp/2.9AnimationApp/Controllers/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "5C2F5B8B-2C33-4A0C-BC2A-8069A5D673B0 - b351fd9655d8adae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__9AnimationApp.MainViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; __9AnimationApp.MainViewController"
+                  moduleName = "2.9AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ekaterina/2.9AnimationApp/2.9AnimationApp/Controllers/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "5C2F5B8B-2C33-4A0C-BC2A-8069A5D673B0 - 23f394756d908c98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__9AnimationApp.MainViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;__9AnimationApp.MainViewController&gt;"
+                  moduleName = "2.9AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ekaterina/2.9AnimationApp/2.9AnimationApp/Controllers/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4E99BAC-6BBD-46B2-B6EC-B0D46F1B0E43"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2.9AnimationApp/Controllers/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "MainViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F57B55B-6B2D-4254-BBEA-F9600010B972"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2.9AnimationApp/Controllers/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "MainViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6F57B55B-6B2D-4254-BBEA-F9600010B972 - 1d276d644f549d09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__9AnimationApp.MainViewController.animationView.getter : Swift.Optional&lt;Spring.SpringView&gt;"
+                  moduleName = "2.9AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ekaterina/2.9AnimationApp/2.9AnimationApp/Controllers/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "6F57B55B-6B2D-4254-BBEA-F9600010B972 - c418e51475e6b115"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__9AnimationApp.MainViewController.animationView.setter : Swift.Optional&lt;Spring.SpringView&gt;"
+                  moduleName = "2.9AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ekaterina/2.9AnimationApp/2.9AnimationApp/Controllers/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "6F57B55B-6B2D-4254-BBEA-F9600010B972 - 7f3ba043d2556e5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__9AnimationApp.MainViewController.animationView.modify : Swift.Optional&lt;Spring.SpringView&gt;"
+                  moduleName = "2.9AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ekaterina/2.9AnimationApp/2.9AnimationApp/Controllers/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "6F57B55B-6B2D-4254-BBEA-F9600010B972 - fe94711cea28719"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__9AnimationApp.MainViewController.animationView.modify : Swift.Optional&lt;Spring.SpringView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "2.9AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ekaterina/2.9AnimationApp/2.9AnimationApp/Controllers/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "6F57B55B-6B2D-4254-BBEA-F9600010B972 - b351fd9655d8ad4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__9AnimationApp.MainViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; __9AnimationApp.MainViewController"
+                  moduleName = "2.9AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ekaterina/2.9AnimationApp/2.9AnimationApp/Controllers/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "6F57B55B-6B2D-4254-BBEA-F9600010B972 - 23f394756d908c79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__9AnimationApp.MainViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;__9AnimationApp.MainViewController&gt;"
+                  moduleName = "2.9AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ekaterina/2.9AnimationApp/2.9AnimationApp/Controllers/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
